@@ -1,0 +1,18 @@
+<!-- <svg preserveAspectRatio="none" viewbox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg"><path d="
+                M 0, 77
+                C 0, 12.320000000000002 12.320000000000002, 0 77, 0
+                S 154, 12.320000000000002 154, 77
+                    141.68, 154 77, 154
+                    0, 141.68 0, 77
+            " fill="#e3e3e3"></path></svg> -->
+
+            <svg class="svg-main" preserveAspectRatio="none" width=500 height=300 viewBox="0 0 500 300">
+    <path fill="#e3e3e3" stroke="none" d="
+      M 0,150
+      C 0,0 0,0 250,0
+      S 500,0 500,150
+        500,300 250,300
+        0,300 0,150
+    ">
+    </path>
+</svg>

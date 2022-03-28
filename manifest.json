@@ -1,0 +1,13 @@
+{
+    "short_name": "Frame",
+    "name": "Frame Company Website",
+    "icons": [{
+        "src": "./img/logo64.png",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+    }],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ff3f3f",
+    "background_color": "#ffffff"
+}
